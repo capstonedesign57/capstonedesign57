@@ -42,7 +42,7 @@ import gensim
 from gensim.models import word2vec
 from gensim.models.word2vec import Word2Vec
 model = gensim.models.Word2Vec(
-    tokenized_sent,
+    tokenized_sents,
     size = 300,
     window = 10,
     min_count = 1,
