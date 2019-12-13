@@ -1,5 +1,5 @@
 # capstonedesign57
-## jupyter version link => https://github.com/capstonedesign57/AirScope_jupyterVer.git
+## jupyter version link (refined version) => https://github.com/capstonedesign57/AirScope_jupyterVer.git
 AirScope_jupyterVer
 ====================
 AirScope는 자연어로 주어진 사용자의 질의에서 의도와 개체명을 정확히 추출하여 조건을 만족하는 항공권을 반환하는 챗봇이다.
